@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.st0 {
+  fill: black;
+  stroke: #010101;
+  stroke-width: 14;
+  stroke-miterlimit: 10;
+}
+.st1 {
+  fill: #010101;
+}
+.st2 {
+  fill: #ffffff;
+}
